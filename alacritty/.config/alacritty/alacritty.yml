@@ -2,21 +2,16 @@ font:
   normal:
     family: JetBrainsMono Nerd Font 
     style: Regular 
-
   bold:
     family: JetBrainsMono Nerd Font 
     style: Bold
-
   italic:
     family: JetBrainsMono Nerd Font 
     style: Italic
-
   bold_italic:
     family: JetBrainsMono Nerd Font 
     style: Bold Italic
-
-  size: 14
-
+  size: 13
 colors:
   primary:
     background: '#2e3440'
@@ -65,3 +60,7 @@ colors:
     magenta: '#8c738c'
     cyan: '#6d96a5'
     white: '#aeb3bb'
+window:
+  padding:
+    x: 4
+    y: 0
